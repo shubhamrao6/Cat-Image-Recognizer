@@ -13,3 +13,4 @@ For the second part I used a Shallow Neural Network which means it has two layer
 The results were as follows:
 ![](/Screenshot_2.jpg)
 
+**The algorithm predicted with an accuracy of 72%.** 
