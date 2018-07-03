@@ -18,8 +18,8 @@ The results were as follows:
 
 # Part 3 (Deep Neural Network)
 For the third and last part I used a Deep Neural Network having four layers with three of them being hidden layers.                      
-The result were as follows:
+The results were as follows:
 
 ![](/Screenshot_3.jpg)
 
-**The algorithm predicted with an accuracy of 80%**
+**The algorithm predicted with an accuracy of 80%.**
