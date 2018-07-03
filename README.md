@@ -11,6 +11,15 @@ The results were as follows:
 # Part 2 (Shallow Neural Network)
 For the second part I used a Shallow Neural Network which means it has two layers and one of them is a hidden layer.            
 The results were as follows:
+
 ![](/Screenshot_2.jpg)
 
 **The algorithm predicted with an accuracy of 72%.** 
+
+# Part 3 (Deep Neural Network)
+For the third and last part I used a Deep Neural Network having four layers with three of them being hidden layers.                      
+The result were as follows:
+
+![](/Screenshot_3.jpg)
+
+**The algorithm predicted with an accuracy of 80%**
